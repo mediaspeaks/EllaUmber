@@ -1,8 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="396" height="700" viewBox="0 0 396 700" role="img" aria-labelledby="title desc">
-<title id="title">Ella Umber</title>
-<desc id="desc">Ella Umber smiling as she heads out for an adventure.</desc>
-<defs><clipPath id="round"><rect x="0" y="0" width="396" height="700" rx="28" ry="28"/></clipPath></defs>
-<rect width="396" height="700" rx="28" fill="#fff7ef"/>
-<image href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAP//////////////////////////////////////////////////////////////////////////////////////2wBDAf//////////////////////////////////////////////////////////////////////////////////////wAARCAKaAZADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAX/xAAUEAEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAH/AP/EABQQAQAAAAAAAAAAAAAAAAAAAgD/2gAIAQEAAQUCIf/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BIf/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BIf/EABQQAQAAAAAAAAAAAAAAAAAAABD/2gAIAQEABj8CIf/EABQQAQAAAAAAAAAAAAAAAAAAABD/2gAIAQEAAT8hH//Z" width="396" height="700" preserveAspectRatio="xMidYMid slice" clip-path="url(#round)"/>
-<rect x="3" y="3" width="390" height="694" rx="25" fill="none" stroke="#ead8f3" stroke-width="6"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="760" viewBox="0 0 430 760" role="img" aria-labelledby="title desc"><title id="title">Ella Umber</title><desc id="desc">Ella Umber smiling as she heads out for an adventure.</desc><defs><clipPath id="r"><rect width="430" height="760" rx="28"/></clipPath></defs><rect width="430" height="760" rx="28" fill="#fff7ef"/><image href="../DoorRevised.png" x="-650" y="-170" width="1254" height="1254" clip-path="url(#r)"/><rect x="3" y="3" width="424" height="754" rx="25" fill="none" stroke="#ead8f3" stroke-width="6"/></svg>
